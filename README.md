@@ -1,8 +1,8 @@
 # PHPDevelopmentOnWindows
 
-#### Table of Contents  
-[PHP w/ Visual Studio Code](#VisualStudioCode)  
-[Laravel on Windows](#Laravel)  
+## Table of Contents  
+1. [PHP w/ Visual Studio Code](#VisualStudioCode)  
+1. [Laravel on Windows](#Laravel)  
 
 <a name="VisualStudioCode"/>
 
